@@ -60,12 +60,12 @@ body{
     flex-wrap: nowrap;
 }
 
-#cards .card .cardTitle{
+#cards .card h3 .cardTitle{
     flex:0 1 200px;
 }
 
 #cards .card .cardText{
-    flex:0 1 100px;
+    flex:0 1 17em;
     padding: 1em;
 }
 
