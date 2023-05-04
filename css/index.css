@@ -165,7 +165,8 @@ footer ul img, footer ul span{
 
 footer ul li{
     list-style-type: none;
-    padding:0 1em;
+    padding:0 3em;
+    text-align: center;
 }
 
 /* Small devices (landscape phones, 576px and up) */
