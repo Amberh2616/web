@@ -143,8 +143,8 @@ footer address{
     margin-top:2em;
     text-align: center;
     font-size: small;
-    color: darkblue
-    ;
+    color: darkgray;
+    
 }
 footer ul a:link{
     text-decoration: none;
@@ -165,7 +165,7 @@ footer ul img, footer ul span{
 
 footer ul li{
     list-style-type: none;
-    padding:0 3em;
+    padding:0 2em;
     text-align: center;
 }
 
