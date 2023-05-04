@@ -38,7 +38,7 @@ body{
     background-color:whitesmoke;
 }
 
-/* The cards */
+
 #cards{
     display: flex;
     flex-direction: row;
