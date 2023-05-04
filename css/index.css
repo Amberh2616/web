@@ -39,6 +39,7 @@ body{
 }
 
 
+/* The cards */
 #cards{
     display: flex;
     flex-direction: row;
@@ -147,9 +148,9 @@ footer address{
     color: darkgray;
     
 }
-footer ul a{
+footer ul a:link{
     text-decoration: none;
-    color: rgb(60, 60, 224);
+    color: rgb(9, 75, 231);
 }
 
 footer ul a:hover{
