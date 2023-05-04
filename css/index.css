@@ -35,6 +35,7 @@ body{
 /* The footer */
 #layout footer{
     grid-area: footer;
+    background-color:whitesmoke;
 }
 
 /* The cards */
