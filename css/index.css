@@ -147,9 +147,9 @@ footer address{
     color: darkgray;
     
 }
-footer ul a:link{
+footer ul a{
     text-decoration: none;
-    color: rgb(114, 113, 113);
+    color: rgb(1, 5, 255);
 }
 
 footer ul a:hover{
